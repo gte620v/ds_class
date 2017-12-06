@@ -6,4 +6,4 @@ def test_hello():
     
     hello = 'hello'
     
-    assert hello == 'hello!'
+    assert hello == 'hello'
